@@ -4,7 +4,7 @@ the program we write is print the counting from 0 to 4
 
 
 
-class helloworld{
+class dowhile{
     public static void main(String[] args) {
         int a=0;
         do{
@@ -21,7 +21,7 @@ class helloworld{
 */
 
 
-class helloworld{
+class dowhile{
     public static void main(String[] args) {
         int a=1;
         do{
